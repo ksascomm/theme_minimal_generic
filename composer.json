@@ -1,0 +1,23 @@
+{
+    "name": "ksascomm/theme_minimal_generic",
+    "type": "wordpress-theme",
+    "license": "GPL2",
+  	"description": "KSAS Minimalist Generic",
+  	"homepage": "http://github.com/ksascomm/theme_minimal_generic",
+  	"authors": [
+      {
+      "name": "Tim Gelles",
+      "email": "ksasweb@jhu.edu",
+      "homepage": "http://krieger.jhu.edu"
+      }
+    ],
+    "keywords": [
+      "wordpress"
+    ],
+  "support": {
+    "issues": "http://krieger.jhu.edu"
+  },
+  "require": {
+        "composer/installers": "~1.0"
+    } 
+}
